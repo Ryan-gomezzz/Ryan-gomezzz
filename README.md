@@ -76,7 +76,7 @@ I'm always excited to collaborate, discuss AI research, and work on interesting 
 
 - 💼 **LinkedIn**: [Ryan Gomez](https://www.linkedin.com/in/ryan-gomez-a1a216276/)
 - 💻 **GitHub**: [@Ryan-gomezzz](https://github.com/Ryan-gomezzz)
-- 📧 **Email**: Feel free to reach out!
+- 📧 **Email**: ryangomez9965@gmail.com
 
 ---
 
