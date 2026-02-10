@@ -6,7 +6,7 @@ Hey there! I'm **Ryan**, a student and passionate **AI enthusiast** on a mission
 
 ## 🧠 About Me
 
-I'm a computer science student with a burning passion for artificial intelligence and machine learning. I believe AI has the potential to solve some of humanity's most pressing problems, and I'm committed to understanding and advancing this technology. When I'm not coding or training models, you'll find me exploring new AI research papers, experimenting with novel architectures, or brainstorming the next big AI idea.
+I'm a Electronics and Communication Engineering student with a burning passion for artificial intelligence and machine learning. I believe AI has the potential to solve some of humanity's most pressing problems, and I'm committed to understanding and advancing this technology. When I'm not coding or training models, you'll find me exploring new AI research papers, experimenting with novel architectures, or brainstorming the next big AI idea.
 
 ---
 
