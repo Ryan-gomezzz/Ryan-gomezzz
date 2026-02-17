@@ -1,109 +1,161 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Hey, I'm Ryan Gomez
 
-Hey there! I'm **Ryan**, a student and passionate **AI enthusiast** on a mission to explore the frontiers of artificial intelligence. I'm currently diving deep into building intelligent AI agents and conducting research across diverse subdomains of AI. Let's build something extraordinary together! 🚀
+🚀 AI Builder | 🤖 Agent Architect | 🔐 Future Cloud Security Architect | 🎤 Tech Leader  
 
----
+Electronics & Communication Engineering student passionate about **Artificial Intelligence, Autonomous Systems, and Scalable Technology Infrastructure**.
 
-## 🧠 About Me
-
-I'm a Electronics and Communication Engineering student with a burning passion for artificial intelligence and machine learning. I believe AI has the potential to solve some of humanity's most pressing problems, and I'm committed to understanding and advancing this technology. When I'm not coding or training models, you'll find me exploring new AI research papers, experimenting with novel architectures, or brainstorming the next big AI idea.
+I build intelligent systems, lead technical communities, and turn ambitious ideas into production-grade products.
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Who I Am
 
-### Languages
+I'm deeply focused on:
+
+- Building **AI Agents that reason and act**
+- Engineering scalable AI-powered systems
+- Researching across multiple AI domains
+- Exploring Cloud + Security architecture
+- Leading high-performance tech teams
+
+### Currently:
+- 🏛 President – RIT MUN Society  
+- ⚡ Vice Chair – IEEE Student Branch  
+- 🤖 Former Executive Member – Robotics & Automation Society  
+- 🧠 Building AI-driven hospitality and automation systems  
+
+I believe AI should be:
+- Practical  
+- Scalable  
+- Ethical  
+- Production-ready  
+
+---
+
+# 💻 Tech Arsenal
+
+## 👨‍💻 Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### AI/ML Tools & Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+---
+
+## 🤖 AI / ML Stack
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Focus Areas:
+- LLM Applications  
+- AI Agents & Multi-Agent Systems  
+- NLP & Prompt Engineering  
+- Computer Vision  
+- Reinforcement Learning  
+- AI System Architecture  
+
+---
+
+## ☁️ Cloud & DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Currently Exploring:
+- Cloud Security Architecture  
+- Scalable ML Deployment  
+- Infrastructure for AI systems  
 
 ---
 
-## 🤖 Current Projects & Research
+# 🧪 What I’m Building
 
-I'm actively working on:
-- **AI Agents**: Building intelligent autonomous agents using cutting-edge frameworks
-- **Multi-Domain AI Research**: Exploring applications across NLP, Computer Vision, Reinforcement Learning, and more
-- **LLM Applications**: Creating practical solutions powered by large language models
-- **Research & Experimentation**: Documenting findings and sharing insights with the community
+### 🔹 AI-Driven Hospitality Systems
+Agent-powered concierge automation, task orchestration & intelligent guest interaction systems.
 
----
+### 🔹 Autonomous AI Agents
+Reasoning + memory + orchestration frameworks.
 
-## 🎯 Research Interests
+### 🔹 Safety & IoT Systems
+Real-world safety applications using sensors, automation & AI.
 
-- 🧬 **Large Language Models (LLMs)** - Understanding and fine-tuning transformer architectures
-- 👁️ **Computer Vision** - Image processing, object detection, and visual understanding
-- 🗣️ **Natural Language Processing (NLP)** - Text analysis, generation, and understanding
-- 🎮 **Reinforcement Learning (RL)** - Training agents to learn from interaction
-- 🤝 **AI Agents** - Building autonomous systems that reason and act intelligently
-- 💡 **AI Ethics** - Ensuring responsible and fair AI development
+### 🔹 Production-Ready Backend Systems
+Authentication, scalable APIs, event-driven architecture.
 
 ---
 
-## 📊 GitHub Statistics
+# 🔬 Research Interests
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-gomezzz&show_icons=true&theme=radical)
+- 🧬 Large Language Models (LLMs)  
+- 🧠 Agentic AI & Multi-Agent Systems  
+- 🔍 Model Optimization & Efficient AI  
+- 👁️ Computer Vision  
+- 🎮 Reinforcement Learning  
+- 🔐 AI Security & Cloud Infrastructure  
+- ⚖ Responsible AI & Ethics  
 
+---
+
+# 📊 GitHub Analytics
+
+## 🚀 Overall Stats
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-gomezzz&show_icons=true&theme=radical)
+
+## 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-gomezzz&layout=compact&theme=radical)
 
----
-
-## 🌱 Learning & Growth
-
-Currently diving into:
-- Advanced LLM architectures and prompt engineering
-- Agentic AI frameworks and multi-agent systems
-- State-of-the-art research papers in AI
-- Cloud deployment of ML models
-- Open-source AI contributions
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Ryan-gomezzz&theme=radical)
 
 ---
 
-## 🤝 Let's Connect!
+# 🌱 Currently Leveling Up In
 
-I'm always excited to collaborate, discuss AI research, and work on interesting projects together!
-
-- 💼 **LinkedIn**: [Ryan Gomez](https://www.linkedin.com/in/ryan-gomez-a1a216276/)
-- 💻 **GitHub**: [@Ryan-gomezzz](https://github.com/Ryan-gomezzz)
-- 📧 **Email**: ryangomez9965@gmail.com
-
----
-
-## 📚 What I'm Reading
-
-I'm constantly exploring the latest AI research. Some areas I'm following:
-- Transformer architectures and attention mechanisms
-- Prompt engineering and in-context learning
-- AI agent design and orchestration
-- Efficient AI and model optimization
+- Advanced LLM architectures  
+- Multi-agent orchestration systems  
+- Kotlin + Native Android development  
+- Cloud Security & DevSecOps  
+- Production-grade AI system design  
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Vision
 
-- [ ] Publish research or contribute to major open-source AI projects
-- [ ] Build and deploy 3+ production-ready AI agent applications
-- [ ] Deep dive into multiple AI subdomains with hands-on projects
-- [ ] Engage with the AI research community and share learnings
-- [ ] Contribute to advancing responsible AI practices
-
----
-
-## 💡 Why AI?
-
-*"Artificial Intelligence is not just about making computers smarter—it's about augmenting human potential and solving problems we never thought possible. I'm here to be part of that journey."*
+- [ ] Deploy 3+ scalable AI systems  
+- [ ] Contribute to major AI open-source frameworks  
+- [ ] Publish technical research or whitepapers  
+- [ ] Build a full-stack AI product from zero to scale  
+- [ ] Transition toward Cloud Security Architecture  
 
 ---
 
-**Thanks for stopping by! Explore my repositories to see what I'm working on, and don't hesitate to reach out if you'd like to collaborate on something exciting. Let's build the future of AI together! 🚀**
+# 🏆 Leadership & Community
+
+- Built and scaled technical communities  
+- Organized multi-committee simulations & tech events  
+- Led interdisciplinary teams across AI, robotics & policy simulation  
+- Mentored juniors in tech & research initiatives  
+
+---
+
+# 🤝 Let’s Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/ryan-gomez-a1a216276/  
+💻 GitHub: https://github.com/Ryan-gomezzz  
+📧 Email: ryangomez9965@gmail.com  
+
+---
+
+# 💭 My Philosophy
+
+> AI is not about replacing intelligence.  
+> It’s about amplifying human capability through engineered systems.
+
+---
+
+⭐ If you’re working on AI, cloud, security, or ambitious tech projects — let’s build something impactful.
