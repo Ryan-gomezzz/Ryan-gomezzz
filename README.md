@@ -18,11 +18,7 @@ I'm deeply focused on:
 - Exploring Cloud + Security architecture
 - Leading high-performance tech teams
 
-### Currently:
-- 🏛 President – RIT MUN Society  
-- ⚡ Vice Chair – IEEE Student Branch  
-- 🤖 Former Executive Member – Robotics & Automation Society  
-- 🧠 Building AI-driven hospitality and automation systems  
+
 
 I believe AI should be:
 - Practical  
