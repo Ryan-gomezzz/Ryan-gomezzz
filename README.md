@@ -1,157 +1,172 @@
-# 👋 Hey, I'm Ryan Gomez
+<div align="center">
 
-🚀 AI Builder | 🤖 Agent Architect | 🔐 Future Cloud Security Architect | 🎤 Tech Leader  
+<!-- Dynamic typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Ryan+Gomez;AI+Systems+Engineer+%7C+Founder+%40+SOYL+AI)](https://git.io/typing-svg)
 
-Electronics & Communication Engineering student passionate about **Artificial Intelligence, Autonomous Systems, and Scalable Technology Infrastructure**.
+<br>
 
-I build intelligent systems, lead technical communities, and turn ambitious ideas into production-grade products.
+**Building intelligent systems that ship. Not slideware.**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-gomez-a1a216276/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ryan-gomezzz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ryangomez9965@gmail.com)
+[![SOYL AI](https://img.shields.io/badge/SOYL_AI-000000?style=flat&logo=vercel&logoColor=white)](https://soyl.cloud)
 
-## 🧠 Who I Am
-
-I'm deeply focused on:
-
-- Building **AI Agents that reason and act**
-- Engineering scalable AI-powered systems
-- Researching across multiple AI domains
-- Exploring Cloud + Security architecture
-- Leading high-performance tech teams
-
-
-
-I believe AI should be:
-- Practical  
-- Scalable  
-- Ethical  
-- Production-ready  
+</div>
 
 ---
 
-# 💻 Tech Arsenal
+### `$ whoami`
 
-## 👨‍💻 Programming
+I'm a 20-year-old AI/ML engineer, founder of **[SOYL AI](https://soyl.cloud)**, and ECE undergraduate at Ramaiah Institute of Technology, Bengaluru. I've built **10+ production AI systems** — from sub-900ms voice agents to autonomous rescue robots — and I care deeply about systems that work at scale, not just in notebooks.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Currently: shipping AI-native hospitality tech, interning in quantum computing at Octakaigon Bock, and leading IEEE & MUN communities at RIT.
 
 ---
 
-## 🤖 AI / ML Stack
+### ⚡ What I've Actually Built
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Focus Areas:
-- LLM Applications  
-- AI Agents & Multi-Agent Systems  
-- NLP & Prompt Engineering  
-- Computer Vision  
-- Reinforcement Learning  
-- AI System Architecture  
+**🎙️ SOYL — AI Voice Agent Platform**
+<br><sub>Python · FastAPI · WebSockets · Docker · AWS/GCP</sub>
 
----
+Real-time voice AI backend handling concurrent audio streams with **< 900ms end-to-end latency**. REST + WebSocket layer for stateful multi-turn conversations. Containerized microservices with horizontal scaling.
 
-## ☁️ Cloud & DevOps
+</td>
+<td width="50%" valign="top">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**🏨 AI Hotel Concierge & PMS**
+<br><sub>RAG · OpenAI · pgvector · Supabase · React · TypeScript</sub>
 
-### Currently Exploring:
-- Cloud Security Architecture  
-- Scalable ML Deployment  
-- Infrastructure for AI systems  
+Production agentic backend with RAG for natural language guest handling — reservations, queries, service requests. Strict module boundaries: AI routes all DB actions through a FastAPI bridge. Full-stack deployed on Vercel.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-# 🧪 What I’m Building
+**🛒 Hush Gentle — Live E-Commerce Storefront**
+<br><sub>Next.js 16 · Supabase RLS · Cashfree · Resend · Vercel</sub>
 
-### 🔹 AI-Driven Hospitality Systems
-Agent-powered concierge automation, task orchestration & intelligent guest interaction systems.
+Production B2C skincare brand storefront. Complete admin dashboard with RBAC, webhook-based payment confirmation, and automated transactional emails. Running live for a real business.
 
-### 🔹 Autonomous AI Agents
-Reasoning + memory + orchestration frameworks.
+</td>
+<td width="50%" valign="top">
 
-### 🔹 Safety & IoT Systems
-Real-world safety applications using sensors, automation & AI.
+**🤖 Life Link — Flood Rescue Robot**
+<br><sub>YOLOv8 · OpenCV · ROS · GPS Navigation</sub>
 
-### 🔹 Production-Ready Backend Systems
-Authentication, scalable APIs, event-driven architecture.
+Autonomous rescue robot with real-time human detection via computer vision. GPS-guided navigation fused with AI perception. **30% faster rescue response** vs. manual baselines in controlled tests.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-# 🔬 Research Interests
+**🧪 The Jellyfish — Wastewater Monitoring**
+<br><sub>ESP32 · Isolation Forest · Random Forest · LSTM · MQTT</sub>
 
-- 🧬 Large Language Models (LLMs)  
-- 🧠 Agentic AI & Multi-Agent Systems  
-- 🔍 Model Optimization & Efficient AI  
-- 👁️ Computer Vision  
-- 🎮 Reinforcement Learning  
-- 🔐 AI Security & Cloud Infrastructure  
-- ⚖ Responsible AI & Ethics  
+Dual-node edge platform with pH/TDS/turbidity/temp sensors detecting pharmaceutical pollutants. Three-layer AI inference: anomaly detection → pollutant classification → contamination forecasting. Automated remediation triggers.
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📊 GitHub Analytics
+**⚛️ Quantum Computing Research**
+<br><sub>Python · Photonic QPU · Circuit Optimization</sub>
 
-## 🚀 Overall Stats
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-gomezzz&show_icons=true&theme=radical)
+Optimized quantum circuit simulations achieving **20% efficiency improvement** on 100-qubit photonic QPU architecture. Contributing to Quantum OS development — scheduling, resource management, and hardware abstraction layers.
 
-## 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-gomezzz&layout=compact&theme=radical)
-
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Ryan-gomezzz&theme=radical)
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌱 Currently Leveling Up In
+### 🛠️ Stack
 
-- Advanced LLM architectures  
-- Multi-agent orchestration systems  
-- Kotlin + Native Android development  
-- Cloud Security & DevSecOps  
-- Production-grade AI system design  
-
----
-
-# 🎯 2026 Vision
-
-- [ ] Deploy 3+ scalable AI systems  
-- [ ] Contribute to major AI open-source frameworks  
-- [ ] Publish technical research or whitepapers  
-- [ ] Build a full-stack AI product from zero to scale  
-- [ ] Transition toward Cloud Security Architecture  
-
----
-
-# 🏆 Leadership & Community
-
-- Built and scaled technical communities  
-- Organized multi-committee simulations & tech events  
-- Led interdisciplinary teams across AI, robotics & policy simulation  
-- Mentored juniors in tech & research initiatives  
+```
+AI/ML          │  LLMs · RAG · NLP · Computer Vision · YOLOv8 · LSTM · RL
+               │  PyTorch · TensorFlow · Scikit-learn · LangChain
+               │
+Languages      │  Python · TypeScript · JavaScript · C++ · Java · Kotlin
+               │
+Backend        │  FastAPI · REST · WebSockets · Microservices · Flask
+               │
+Cloud/Infra    │  AWS · GCP · Docker · Kubernetes · CI/CD · Supabase · Vercel
+               │
+Systems        │  Real-Time Processing · Distributed Systems · Low-Latency Pipelines
+               │  Edge IoT · pgvector · MQTT
+               │
+Tools          │  Git · OpenCV · Figma · Altium
+```
 
 ---
 
-# 🤝 Let’s Connect
+### 📈 Numbers
 
-💼 LinkedIn: https://www.linkedin.com/in/ryan-gomez-a1a216276/  
-💻 GitHub: https://github.com/Ryan-gomezzz  
-📧 Email: ryangomez9965@gmail.com  
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| Production AI systems shipped | **10+** |
+| Voice AI response latency | **< 900ms** |
+| Quantum circuit efficiency gain | **20%** |
+| Rescue response time reduction | **30%** |
+| Technical workshops coordinated (IEEE) | **40+** |
+| MUN conferences organized | **3 (200+ attendees)** |
+
+</div>
 
 ---
 
-# 💭 My Philosophy
+### 🏛️ Leadership
 
-> AI is not about replacing intelligence.  
-> It’s about amplifying human capability through engineered systems.
+**Vice Chair** — IEEE Student Branch, RIT *(2025)* · Coordinated 40+ workshops across 12 teams in AI, cloud, and robotics
+
+**President** — RITMUNSOC *(2024–Present)* · Leading 25-member, 5-department org · 3 conferences, 200+ attendees
+
+**IT Head** — UI/UX Club, RIT *(2025–Present)* · Managing technical infrastructure and project pipelines
 
 ---
 
-⭐ If you’re working on AI, cloud, security, or ambitious tech projects — let’s build something impactful.
+### 📊 GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryan-gomezzz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-gomezzz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ryan-gomezzz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF" />
+</div>
+
+---
+
+### 🔭 What's Next — 2026
+
+- Scaling SOYL AI's product portfolio across hospitality and SMB verticals
+- Publishing research — adaptive token rate TTS for edge devices (targeting Interspeech / ICASSP)
+- Contributing to major AI open-source frameworks
+- Deepening quantum computing research at Octakaigon Bock
+- Applying for MS programs in AI/ML abroad (2027 intake)
+
+---
+
+<div align="center">
+<br>
+
+*AI isn't about replacing intelligence. It's about engineering systems that amplify human capability.*
+
+<br>
+
+**If you're building something ambitious in AI, cloud, or quantum — let's talk.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-gomez-a1a216276/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryangomez9965@gmail.com)
+
+</div>
