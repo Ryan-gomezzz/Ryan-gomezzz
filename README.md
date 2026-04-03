@@ -85,23 +85,58 @@ Optimized quantum circuit simulations achieving **20% efficiency improvement** o
 
 ---
 
-### 🛠️ Stack
 
-```
-AI/ML          │  LLMs · RAG · NLP · Computer Vision · YOLOv8 · LSTM · RL
-               │  PyTorch · TensorFlow · Scikit-learn · LangChain
-               │
-Languages      │  Python · TypeScript · JavaScript · C++ · Java · Kotlin
-               │
-Backend        │  FastAPI · REST · WebSockets · Microservices · Flask
-               │
-Cloud/Infra    │  AWS · GCP · Docker · Kubernetes · CI/CD · Supabase · Vercel
-               │
-Systems        │  Real-Time Processing · Distributed Systems · Low-Latency Pipelines
-               │  Edge IoT · pgvector · MQTT
-               │
-Tools          │  Git · OpenCV · Figma · Altium
-```
+## 🛠️ Stack
+
+### AI/ML
+[![LLMs](https://img.shields.io/badge/LLMs-42b983?logo=OpenAI&logoColor=white)]()
+[![RAG](https://img.shields.io/badge/RAG-0064fa?logo=OpenAI&logoColor=white)]()
+[![NLP](https://img.shields.io/badge/NLP-c93a2f?logo=OpenAI&logoColor=white)]()
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-87CEEB?logo=OpenCV&logoColor=white)]()
+[![LSTM](https://img.shields.io/badge/LSTM-4B0082?logo=OpenAI&logoColor=white)]()
+[![RL](https://img.shields.io/badge/RL-8a2be2?logo=OpenAI&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![LangChain](https://img.shields.io/badge/LangChain-21A366?logo=LangChain&logoColor=white)](https://www.langchain.com)
+
+### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)]()
+
+### Backend
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![REST](https://img.shields.io/badge/REST-000000?style=flat)]()
+[![WebSockets](https://img.shields.io/badge/WebSockets-8048ff)]()
+[![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=flat)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+
+### Cloud/Infra
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![CI/CD](https://img.shields.io/badge/CI/CD-222222?logo=githubactions&logoColor=white)]()
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com)
+
+### Systems
+[![Real-Time Processing](https://img.shields.io/badge/Real--Time_Processing-00599C?style=flat)]()
+[![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-9C27B0?style=flat)]()
+[![Low-Latency Pipelines](https://img.shields.io/badge/Low--Latency_Pipelines-1976D2?style=flat)]()
+[![Edge IoT](https://img.shields.io/badge/Edge_IoT-FF7F50?style=flat)]()
+[![pyevctor](https://img.shields.io/badge/pyevctor-1976D2?style=flat)]()
+[![MQTT](https://img.shields.io/badge/MQTT-660066?logo=MQTT&logoColor=white)](http://mqtt.org/)
+
+### Tools
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://figma.com)
+[![Altium](https://img.shields.io/badge/Altium-BCB522?style=flat)](https://www.altium.com/)
 
 ---
 
@@ -150,7 +185,6 @@ Tools          │  Git · OpenCV · Figma · Altium
 - Scaling SOYL AI's product portfolio across hospitality and SMB verticals
 - Publishing research — adaptive token rate TTS for edge devices (targeting Interspeech / ICASSP)
 - Contributing to major AI open-source frameworks
-- Deepening quantum computing research at Octakaigon Bock
 - Applying for MS programs in AI/ML abroad (2027 intake)
 
 ---
