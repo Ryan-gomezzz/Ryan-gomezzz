@@ -146,10 +146,8 @@ Optimized quantum circuit simulations achieving **20% efficiency improvement** o
 
 | Metric | Value |
 |--------|-------|
-| Production AI systems shipped | **10+** |
-| Voice AI response latency | **< 900ms** |
-| Quantum circuit efficiency gain | **20%** |
-| Rescue response time reduction | **30%** |
+| Production AI systems shipped | **6+** |
+| Voice AI response latency | **< 600ms** |
 | Technical workshops coordinated (IEEE) | **40+** |
 | MUN conferences organized | **3 (200+ attendees)** |
 
